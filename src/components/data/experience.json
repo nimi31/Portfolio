@@ -1,0 +1,27 @@
+[{
+    "id": 1,
+    "role": "Android Developer",
+    "organisation": "Appenius Pvt Ltd",
+    "startDate": "Fab, 2024",
+    "endDate": "May, 2024",
+    "location": "Remote",
+    "experiences": [
+      "Built Recharge Management App"
+     
+    ],
+    "imageSrc": "companies/company1.png"
+  },
+  {
+    "id": 2,
+    "role": "Android Developer",
+    "organisation": "Tecxon Technology",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": [
+      "Working on Hey Rider Application"
+     
+    ],
+    "imageSrc": "companies/save.png"
+  }
+  ]
